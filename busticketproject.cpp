@@ -43,7 +43,7 @@ int main()
         Sleep(100);
     }
     cout<<"\n\n\n\t\t\t\t\t\t\t\t\t\t\t============================= \n";
-    cout<<"\n\t\t\t\t\t\t\t\t\t\t         Developed By Team Alpha_001";
+    cout<<"\n\t\t\t\t\t\t\t\t\t\t         Developed By Team ERROES";
     cout<<"\n\n\t\t\t\t\t\t\t\t\t\t\t============================= \n";
     cout<<"\n\n\n\n\t\t\t\t\t\t\t\t\t\t\t Press Enter to Enter the System.....";
     getch();
